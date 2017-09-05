@@ -6,5 +6,4 @@
 *.a
 *.o
 tags
-build/
 
