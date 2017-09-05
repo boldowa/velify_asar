@@ -1,0 +1,10 @@
+*.exe
+*.obj
+*.so
+*.dll
+*.lib
+*.a
+*.o
+tags
+build/
+
